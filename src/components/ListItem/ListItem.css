@@ -1,0 +1,15 @@
+.option {
+    display: flex;
+    align-items: center;
+}
+
+.icon-list {
+    width: 20px;
+}
+
+.text-list {
+    font-size: 14px;
+    margin: 8px;
+    padding: 0;
+    white-space: nowrap;
+}

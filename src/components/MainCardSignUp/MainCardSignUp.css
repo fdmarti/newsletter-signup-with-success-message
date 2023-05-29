@@ -1,0 +1,17 @@
+.main-card-sign-up {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--white);
+    max-width: fit-content;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 100px auto;
+}
+
+@media (max-width:992px) {
+    .main-card-sign-up {
+        flex-direction: column-reverse;
+        margin: 20px auto;
+    }
+}

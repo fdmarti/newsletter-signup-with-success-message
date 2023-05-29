@@ -1,0 +1,21 @@
+.newsletter {
+    width: 320px;
+    padding: 20px;
+}
+
+h1 {
+    color: var(--darkSlateGrey);
+    font-size: 52px;
+    font-weight: 700;
+    text-align: center;
+}
+
+p {
+    color: var(--charcoalGrey);
+    font-weight: 500;
+    padding: 0 10px;
+}
+
+.options {
+    margin: 0 0 20px 10px;
+}

@@ -1,0 +1,31 @@
+.main-card-success-message {
+    display: flex;
+    background-color: var(--white);
+    max-width: 360px;
+    border-radius: 20px;
+    padding: 40px 60px 50px;
+    margin: 100px auto;
+    flex-direction: column;
+
+}
+
+.main-card-success-message h1 {
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.main-card-success-message img {
+    width: 60px;
+}
+
+.main-card-success-message p {
+    color: var(--darkSlateGrey);
+    line-height: 21px;
+    margin-bottom: 25px;
+}
+
+
+.email-confirmation {
+    font-weight: 700;
+    font-size: 17px;
+}

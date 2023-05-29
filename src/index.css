@@ -1,0 +1,26 @@
+:root {
+    --tomato: #ff6257;
+    --errorBackground: rgba(253, 121, 111, 0.479);
+    --darkSlateGrey: #242742;
+    --charcoalGrey: #36384e;
+    --grey: #9294a0;
+    --white: #FFF;
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--charcoalGrey);
+}
+
+p {
+    font-size: 15px;
+}
+
+img {
+    width: 100%;
+}

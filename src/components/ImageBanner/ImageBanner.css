@@ -1,0 +1,14 @@
+.image-ilustration {
+    max-width: 400px;
+}
+
+@media (max-width:992px) {
+    .image-ilustration {
+        max-width: fit-content;
+    }
+
+    img.image-ilustration {
+        content: url("/assets/images/illustration-sign-up-mobile.svg");
+    }
+
+}

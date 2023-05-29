@@ -1,0 +1,17 @@
+.btn-basic {
+    padding: 15px 10px;
+    border: none;
+    border-radius: 10px;
+    color: var(--white);
+    background-color: var(--darkSlateGrey);
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.btn-basic:hover {
+    cursor: pointer;
+    background: rgb(226, 58, 128);
+    background: linear-gradient(90deg, rgba(226, 58, 128, 1) 0%, rgba(255, 98, 87, 1) 76%);
+    box-shadow: 0 10px 30px rgb(226, 58, 128);
+}
